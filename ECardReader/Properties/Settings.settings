@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ECardReader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="preSvnr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">blanked</Value>
+    </Setting>
+    <Setting Name="preFirstName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">blanked</Value>
+    </Setting>
+    <Setting Name="preLastName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">blanked</Value>
+    </Setting>
+    <Setting Name="preBirthdate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">blanked</Value>
+    </Setting>
+    <Setting Name="preSex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">blanked</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
